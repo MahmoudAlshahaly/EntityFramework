@@ -1,0 +1,10 @@
+C:\Users\Eng-Mahmoud Ahmed\source\repos\TaskDAY1\TaskDAY1\bin\Debug\TaskDAY1.exe.config
+C:\Users\Eng-Mahmoud Ahmed\source\repos\TaskDAY1\TaskDAY1\bin\Debug\TaskDAY1.exe
+C:\Users\Eng-Mahmoud Ahmed\source\repos\TaskDAY1\TaskDAY1\bin\Debug\TaskDAY1.pdb
+C:\Users\Eng-Mahmoud Ahmed\source\repos\TaskDAY1\TaskDAY1\obj\Debug\TaskDAY1.csproj.AssemblyReference.cache
+C:\Users\Eng-Mahmoud Ahmed\source\repos\TaskDAY1\TaskDAY1\obj\Debug\TaskDAY1.Form1.resources
+C:\Users\Eng-Mahmoud Ahmed\source\repos\TaskDAY1\TaskDAY1\obj\Debug\TaskDAY1.Properties.Resources.resources
+C:\Users\Eng-Mahmoud Ahmed\source\repos\TaskDAY1\TaskDAY1\obj\Debug\TaskDAY1.csproj.GenerateResource.cache
+C:\Users\Eng-Mahmoud Ahmed\source\repos\TaskDAY1\TaskDAY1\obj\Debug\TaskDAY1.csproj.CoreCompileInputs.cache
+C:\Users\Eng-Mahmoud Ahmed\source\repos\TaskDAY1\TaskDAY1\obj\Debug\TaskDAY1.exe
+C:\Users\Eng-Mahmoud Ahmed\source\repos\TaskDAY1\TaskDAY1\obj\Debug\TaskDAY1.pdb
