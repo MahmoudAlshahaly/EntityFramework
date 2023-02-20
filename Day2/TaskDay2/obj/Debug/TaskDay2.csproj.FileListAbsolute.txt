@@ -1,0 +1,11 @@
+C:\Users\Eng-Mahmoud Ahmed\source\repos\TaskDay2\TaskDay2\bin\Debug\TaskDay2.exe.config
+C:\Users\Eng-Mahmoud Ahmed\source\repos\TaskDay2\TaskDay2\bin\Debug\TaskDay2.exe
+C:\Users\Eng-Mahmoud Ahmed\source\repos\TaskDay2\TaskDay2\bin\Debug\TaskDay2.pdb
+C:\Users\Eng-Mahmoud Ahmed\source\repos\TaskDay2\TaskDay2\obj\Debug\TaskDay2.csproj.AssemblyReference.cache
+C:\Users\Eng-Mahmoud Ahmed\source\repos\TaskDay2\TaskDay2\obj\Debug\TaskDay2.Form1.resources
+C:\Users\Eng-Mahmoud Ahmed\source\repos\TaskDay2\TaskDay2\obj\Debug\TaskDay2.Properties.Resources.resources
+C:\Users\Eng-Mahmoud Ahmed\source\repos\TaskDay2\TaskDay2\obj\Debug\TaskDay2.csproj.GenerateResource.cache
+C:\Users\Eng-Mahmoud Ahmed\source\repos\TaskDay2\TaskDay2\obj\Debug\TaskDay2.csproj.CoreCompileInputs.cache
+C:\Users\Eng-Mahmoud Ahmed\source\repos\TaskDay2\TaskDay2\obj\Debug\TaskDay2.exe
+C:\Users\Eng-Mahmoud Ahmed\source\repos\TaskDay2\TaskDay2\obj\Debug\TaskDay2.pdb
+C:\Users\Eng-Mahmoud Ahmed\source\repos\TaskDay2\TaskDay2\obj\Debug\TaskDay2.FormLayerd.resources
