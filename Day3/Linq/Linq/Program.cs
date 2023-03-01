@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Xml.Linq;
@@ -170,6 +172,16 @@ namespace Linq
 
             StreamReader sr = new StreamReader(@"C:\Users\Eng-Mahmoud Ahmed\Desktop\EntityFramework\Day3\Linq\Linq\bin\Debug\net5.0\dictionary_english.txt");
 
+            var a = new { id=100,name="ahmed"};
+            var b = new { id=100,name= "yasser" };
+            Console.WriteLine(a.Equals(b));
+
+            DB.DATABASE.LOG = LOG => Debug.WriteLine(LOG);
+
+            var t = ProductList.Where(a=>a.ProductID>5);
+            var te = ProductList.ToList().Where(a=>a.ProductID>5);
+            Debug.
+            Console.WriteLine();
         }
     }
 }
