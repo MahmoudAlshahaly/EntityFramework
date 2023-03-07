@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -29,6 +30,20 @@ namespace WinFormsApp2
         }
         private void Form1_Load(object sender, EventArgs e)
         {
+            //db.Database.Log = log => Debug.WriteLine(log);
+            var data2 = db.Students.Where(b => b.StId > 5);
+            foreach (var item in data2)
+            {
+
+            }
+
+            var data1 = db.Students.ToList().Where(a => a.StId > 5);
+            foreach (var item in data1)
+            {
+                Console.WriteLine(item);
+            }
+
+
             var data = db.Topics.ToList();
             dataGridView1.DataSource = data;
             fillTopic();

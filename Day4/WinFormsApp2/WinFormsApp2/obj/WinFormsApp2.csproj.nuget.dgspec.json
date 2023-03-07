@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eng-Mahmoud Ahmed\\source\\repos\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj": {}
+    "C:\\Users\\Eng-Mahmoud Ahmed\\Desktop\\EntityFramework\\Day4\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eng-Mahmoud Ahmed\\source\\repos\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj": {
+    "C:\\Users\\Eng-Mahmoud Ahmed\\Desktop\\EntityFramework\\Day4\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eng-Mahmoud Ahmed\\source\\repos\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
+        "projectUniqueName": "C:\\Users\\Eng-Mahmoud Ahmed\\Desktop\\EntityFramework\\Day4\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
         "projectName": "WinFormsApp2",
-        "projectPath": "C:\\Users\\Eng-Mahmoud Ahmed\\source\\repos\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
+        "projectPath": "C:\\Users\\Eng-Mahmoud Ahmed\\Desktop\\EntityFramework\\Day4\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
         "packagesPath": "C:\\Users\\Eng-Mahmoud Ahmed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eng-Mahmoud Ahmed\\source\\repos\\WinFormsApp2\\WinFormsApp2\\obj\\",
+        "outputPath": "C:\\Users\\Eng-Mahmoud Ahmed\\Desktop\\EntityFramework\\Day4\\WinFormsApp2\\WinFormsApp2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,6 +65,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.17, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             }
           },
           "imports": [
